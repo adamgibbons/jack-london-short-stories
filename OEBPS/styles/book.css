@@ -1,0 +1,105 @@
+body div#frontmatter {
+	text-align:center;
+}
+
+sup a {
+	text-decoration:none;
+	margin-left:.3em;
+}
+
+h1, h2 {
+	line-height:1.5em;
+}
+
+h3 {
+	text-align:center;
+	font-size:2.3em;
+}
+
+h4 {
+	text-align:center;
+	font-size:1.5em;
+}
+
+.body p, .body ol li {
+	font-size:1em;
+	line-height:1.3em;
+	margin:1.7em 0;
+}
+
+.body ul li {
+	margin:1.5em 0;
+}
+
+p.title-break {
+	margin:1.5em 0;
+	text-align:center;
+	font-weight:900;
+	font-size:1.2em;
+}
+
+p.title-break span {
+	margin:0 .5em;
+}
+
+p.ratification-date {
+	text-align:center;
+	margin-top:0;
+}
+
+.align-right {
+	text-align:right;
+}
+
+.align-center {
+	text-align:center;
+}
+
+span.upper {
+	text-transform:uppercase;
+}
+
+span.section {
+	font-style:italic;
+	margin-right: .5em;
+}
+
+#index-to-constitution table {
+	margin:auto;
+	width:80%;
+}
+
+#index-to-constitution table td {
+	border:1px solid white;
+	padding:.3em 1em;
+	text-align:left;
+}
+
+#index-to-constitution table td:first-child {
+	width:60%;
+}
+
+#index-to-constitution table tr td.indent-1 {
+	padding-left:3em;
+}
+
+#index-to-constitution table tr td.indent-2 {
+	padding-left:6em;
+}
+
+.acronym{
+	display:block;
+	margin-left:15px;
+}
+
+.large-cap{
+	font-size:125%;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+.align-center{
+	text-align:center;
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0" xml:lang="en">
+
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>Jack London: Ten Short Stories</dc:title>
+        <!-- <dc:identifier id="bookid"></dc:identifier> -->
+        <dc:language>en</dc:language>
+        <meta property="dcterms:modified">2013-03-01T12:00:00Z</meta>
+        <dc:creator>Jack London</dc:creator>
+        <dc:publisher>Biped Design (www.biped-design.com)</dc:publisher>
+    </metadata>
+
+    <manifest>
+        <!-- Content Documents -->
+        <item href="OEBPS/text/titlepage.html" id="frontmatter" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/a-wicked-woman.html" id="a-wicked-woman" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/all-gold-canyon.html" id="all-gold-canyon" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/aloha-oe.html" id="aloha-oe" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/amateur-night.html" id="amateur-night" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/an-adventure-in-the-upper-sea.html" id="an-adventure-in-the-upper-sea" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/and-frisco-kid-came-back.html" id="and-frisco-kid-came-back" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/at-the-rainbows-end.html" id="at-the-rainbows-end" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/bald-face.html" id="bald-face" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/batard.html" id="batard" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/brown-wolf.html" id="brown-wolf" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/hyperborean-brew.html" id="hyperborean-brew" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/klondike-christmas.html" id="klondike-christmas" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/the-apostate.html" id="the-apostate" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/the-benefit-of-the-doubt.html" id="the-benefit-of-the-doubt" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/the-bones-of-kahekili.html" id="the-bones-of-kahekili" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/who-believes-in-ghosts.html" id="who-believes-in-ghosts" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/whose-business-is-to-live.html" id="whose-business-is-to-live" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/wife-of-a-king.html" id="wife-of-a-king" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/winged-blackmail.html" id="winged-blackmail" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/wisdom-of-the-trail.html" id="wisdom-of-the-trail" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/wit-of-porportuk.html" id="wit-of-porportuk" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/wonder-of-woman.html" id="wonder-of-woman" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/yah-yah-yah.html" id="yah-yah-yah" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/yellow-handkerchief.html" id="yellow-handkerchief" media-type="application/xhtml+xml" />
+        <item href="OEBPS/styles/book.css" id="book-css" media-type="text/css" />
+        <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav" />
+    </manifest>
+
+    <spine>
+        <itemref idref="frontmatter" linear="yes" />
+        <itemref idref="a-wicked-woman" linear="yes" />
+        <itemref idref="all-gold-canyon" linear="yes" />
+        <itemref idref="aloha-oe" linear="yes" />
+        <itemref idref="amateur-night" linear="yes" />
+        <itemref idref="an-adventure-in-the-upper-sea" linear="yes" />
+        <itemref idref="and-frisco-kid-came-back" linear="yes" />
+        <itemref idref="at-the-rainbows-end" linear="yes" />
+        <itemref idref="bald-face" linear="yes" />
+        <itemref idref="batard" linear="yes" />
+        <itemref idref="brown-wolf" linear="yes" />
+        <itemref idref="hyperborean-brew" linear="yes" />
+        <itemref idref="klondike-christmas" linear="yes" />
+        <itemref idref="the-apostate" linear="yes" />
+        <itemref idref="the-benefit-of-the-doubt" linear="yes" />
+        <itemref idref="the-bones-of-kahekili" linear="yes" />
+        <itemref idref="who-believes-in-ghosts" linear="yes" />
+        <itemref idref="whose-business-is-to-live" linear="yes" />
+        <itemref idref="wife-of-a-king" linear="yes" />
+        <itemref idref="winged-blackmail" linear="yes" />
+        <itemref idref="wisdom-of-the-trail" linear="yes" />
+        <itemref idref="wit-of-porportuk" linear="yes" />
+        <itemref idref="wonder-of-woman" linear="yes" />
+        <itemref idref="yah-yah-yah" linear="yes" />
+        <itemref idref="yellow-handkerchief" linear="yes" />
+    </spine>
+</package>
+
+
